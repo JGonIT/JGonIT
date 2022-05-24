@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeong Geun, Lim for ROK.
+- 👋 Hi, I’m Jeong Geun, Lim.
 - 👀 I’m interested in aviation.
 - 🌱 I’m currently learning programming in PNU.
 - 💞️ I’m looking to collaborate on ...
